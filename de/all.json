@@ -696,6 +696,7 @@
       "EMBED_LINK": "Link einbetten",
       "INVALID_URL": "Ungültige URL",
       "LABEL": "Link",
+      "LABEL_MOBILE": "Links",
       "LINK": "Link",
       "LINK_WITH_COUNT_one": "{{count, number}} Link",
       "LINK_WITH_COUNT_other": "{{count, number}} Links",
@@ -704,9 +705,12 @@
     },
     "UPLOAD_SOURCE": {
       "EMPTY": "Legen Sie PDFs, Word-Dokumente, PPTs und <moreLink> mehr</moreLink> hier ab!",
+      "FILE_TYPES": "Akzeptiert PDF, Word, PPT, XLSX, ePub und <moreLink>mehr Formate</moreLink>.",
+      "PASTE_URL": "Füge eine Youtube, PDF oder web URL ein",
       "IMPORT_INSTEAD": "RemNote kann Datei-Uploads dieses Art nicht akzeptieren. Allerdings können wir die Notizen oder Karteikarten in dieser Datei möglicherweise importieren! Wählen Sie „Importieren“ aus dem Kontomenü oben links.",
       "INVALID": "Falsches Dateiformat!",
       "LABEL": "Hochladen",
+      "LABEL_MOBILE": "Dateien",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs",
@@ -715,10 +719,13 @@
       "UPLOAD": "hochladen",
       "UPLOADING": "Hochladen..."
     },
+    "RECORD_SOURCE": {
+      "LABEL": "Aufnehmen"
+    },
     "WIKIMEDIA_COMMONS": {
+      "LABEL": "Bildersuche",
       "EMPTY": "Legen Sie PDFs, Word-Dokumente, PPTs und<moreLink> mehr</moreLink> Hier!",
       "INVALID": "Falsches Dateiformat!",
-      "LABEL": "Bildersuche",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs",
